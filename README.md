@@ -24,6 +24,7 @@
 <br/>
 
 ## My Skill Set  
+<div align="center"> 
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  
@@ -59,16 +60,15 @@
 
 ## Connect with me  
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
   <a href="https://github.com/titiksha2003" target="_blank"> <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="https://www.linkedin.com/in/titiksha-dwivedi-8097ab265/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@shyamsundergaushala1134"> <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200">
-
     
 </div>
 
-----
+<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" height="5">
+<br>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=titiksha2003&&style=flat-square" align="center" />
