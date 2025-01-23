@@ -1,0 +1,1 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+I'm+Titiksha+%F0%9F%91%8B;a+tech+tinkerer+%F0%9F%92%BB+%26++Soulful+singer%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
