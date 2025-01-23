@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+I'm+Titiksha+%F0%9F%91%8B;a+tech+tinkerer+%F0%9F%92%BB+%26+soulful+singer%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
-<img src="" align="center" style="width: 100%" />
+
 </div>  
   
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
@@ -9,11 +9,13 @@
 <br><br>
 
 <pre>
-💼 Aspiring Tech Enthusiast • Content Creator
-💻 Python • HTML & CSS • Video Editing
-📖 Digital Marketing • NGO Campaigns
-🎮 Singing • Drawing • Tech Exploration
-🐾 Animal Lover 🐶 🐾
+🔭 I’m currently working on digital marketing and content creation projects
+
+🌱 I’m currently learning Python and honing my video editing skills
+
+❓ Ask me about content strategy, YouTube growth, or NGO campaigns
+
+⚡ Fun fact: I can sing while debugging code!
 </pre>
 
 <br><br>
@@ -21,27 +23,7 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge)](http://linkedin.com/in/your-link)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge)](https://youtube.com/your-channel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge)](http://your-portfolio-link.com)
-
 ### <div align="center"></div>  
-  
-
-- 🔭 I’m currently working on digital marketing and content creation projects  
-  
-  
-
-- 🌱 I’m currently learning Python and honing my video editing skills  
-  
-  
-
-- ❓ Ask me about content strategy, YouTube growth, or NGO campaigns  
-  
-  
-
-- ⚡ Fun fact: I can sing while debugging code!  
-  
   
 
 <br/>  
