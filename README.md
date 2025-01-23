@@ -3,9 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hello+I'm+Titiksha+%F0%9F%91%8B;a+tech+tinkerer+%F0%9F%92%BB+%26+soulful+singer%F0%9F%8E%99%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>  
-  
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-
 <br><br>
 
 <pre>
@@ -18,10 +15,9 @@
 ⚡ Fun fact: I can sing while debugging code!
 </pre>
 
-<br><br>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="60%" align="right"/>
 
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
-<br><br><br>
 
 ### <div align="center"></div>  
   
